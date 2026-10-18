@@ -18,4 +18,4 @@ npm start
 
 ## Variables d'environnement
 
-- `PORT` : port d'écoute (défaut 3002)# notification-service
+- `PORT` : port d'écoute (défaut 3002)
